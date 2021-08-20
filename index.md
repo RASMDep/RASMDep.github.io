@@ -8,4 +8,4 @@ What is this project about?
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-Read our [privacy polycy](https://github.com/RASMDep/RASMDep.github.io/edit/main/privacy_policy.html)
+Read our [privacy polycy](https://github.com/RASMDep/RASMDep.github.io/edit/main/privacy_policy.md)
