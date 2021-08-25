@@ -17,7 +17,8 @@ Bei einem ersten Treffen werden die Ein- und Ausschlusskriterien geprüft, alle 
 
 ## Kontakt:
 
-(add here e-mail address, phone number 079 260 92 79, maybe with emoticons)
+- e-mail address
+- phone number 079 260 92 79
 
 ### Wir freuen uns!
 
