@@ -11,14 +11,15 @@ Ziel: Mit dieser Studie wollen wir herausfinden, wie Schlaf, Aktivität und Stim
 * Interesse an der Nutzung moderner Messgeräte ("Wearables")
 
 * gesund oder an einer Depression leidend
-* 
-Ablauf: Bei einem ersten Treffen werden die Ein- und Ausschlusskriterien geprüft, alle Messgeräte erklärt und ausgehändigt. Während fünf Wochen werden täglich einfache, kurze Fragebogen auf dem Handy ausgefüllt und ein Fitnesstracker getragen. Während zwei Wochen wird der Schlaf mittels eines Stirnband-ähnlichen Gerätes aufgezeichnet. Die Anwendung ist sehr einfach und die Aufzeichnungen komplett schmerzfrei.
 
-Kontakt:
+### Ablauf: 
+Bei einem ersten Treffen werden die Ein- und Ausschlusskriterien geprüft, alle Messgeräte erklärt und ausgehändigt. Während fünf Wochen werden täglich einfache, kurze Fragebogen auf dem Handy ausgefüllt und ein Fitnesstracker getragen. Während zwei Wochen wird der Schlaf mittels eines Stirnband-ähnlichen Gerätes aufgezeichnet. Die Anwendung ist sehr einfach und die Aufzeichnungen komplett schmerzfrei.
+
+## Kontakt:
 
 (add here e-mail address, phone number 079 260 92 79, maybe with emoticons)
 
-Wir freuen uns!
+### Wir freuen uns!
 
 Liebe Grüsse
 
