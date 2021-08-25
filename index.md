@@ -1,11 +1,26 @@
 ## Welcome to RASMDep Project
 
-What is this project about?
+## Studienteilnehmer/- innen für Schlafstudie gesucht – durchführbar zu Hause!
 
-### Do you want to take part in the study?
+Ziel: Mit dieser Studie wollen wir herausfinden, wie Schlaf, Aktivität und Stimmung zu Hause einfach und zuverlässig gemessen werden können und ob mittels einfacher Messungen von Herzschlag oder Aktivität die aktuelle Stimmung abgeschätzt werden kann. 
 
-## Contact
+## Voraussetzungen:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Alter: 18-65 Jahre 
 
-Read our [privacy policy](https://github.com/RASMDep/RASMDep.github.io/edit/main/privacy_policy.md)
+* Interesse an der Nutzung moderner Messgeräte ("Wearables")
+
+* gesund oder an einer Depression leidend
+* 
+Ablauf: Bei einem ersten Treffen werden die Ein- und Ausschlusskriterien geprüft, alle Messgeräte erklärt und ausgehändigt. Während fünf Wochen werden täglich einfache, kurze Fragebogen auf dem Handy ausgefüllt und ein Fitnesstracker getragen. Während zwei Wochen wird der Schlaf mittels eines Stirnband-ähnlichen Gerätes aufgezeichnet. Die Anwendung ist sehr einfach und die Aufzeichnungen komplett schmerzfrei.
+
+Kontakt:
+
+(add here e-mail address, phone number 079 260 92 79, maybe with emoticons)
+
+Wir freuen uns!
+
+Liebe Grüsse
+
+das Studienteam
+
